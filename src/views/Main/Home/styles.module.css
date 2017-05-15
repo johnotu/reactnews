@@ -1,0 +1,39 @@
+.header{
+  text-align: center;
+}
+
+.content{
+  /*text-align: center;*/
+}
+
+.toolbar{
+  display: inline-block;
+}
+
+.headline{
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.author{
+  color: #7f8c8d;
+  font-size: 0.8em;
+  margin: 0;
+}
+
+.datepublished{
+  color: #95a5a6;
+  font-size: 0.8em;
+  margin: 0;
+}
+
+p{
+  font-size: 0.8em;
+  margin: 0;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
