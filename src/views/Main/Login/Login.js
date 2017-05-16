@@ -37,6 +37,7 @@ export class Login extends React.Component {
       <div>
         <div className={styles.header}>
           <ButtonToolbar className={styles.toolbar}>
+            <h4>Log in to access links to news items</h4>
             <Button bsStyle="primary" onClick={auth.login.bind(this)}>Login</Button>
           </ButtonToolbar>
         </div>
